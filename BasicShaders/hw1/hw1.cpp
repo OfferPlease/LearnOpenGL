@@ -3,7 +3,7 @@
   Assignment 1: Height Fields with Shaders.
   C/C++ starter code
 
-  Student username: <yzhou075>
+  Student username: <type your USC username here>
 */
 
 #include "openGLHeader.h"
